@@ -1,0 +1,92 @@
+#content {
+    background-image: url(/wwr/images/olas.png) ;
+    background-size: 5%;
+    background-color: gainsboro;
+    max-width: 1600px;
+    margin: 0 auto;
+}
+
+nav a {
+    text-align: center;
+    color: #fcfbfb;
+    text-decoration: none;
+}
+
+#hero-msg h1 {
+    text-align: center;
+}
+
+#hero-msg h4 {
+    text-align: center;
+}
+
+.button-box {
+    text-align: center;
+}
+
+main {
+    text-align: center;
+}
+
+section {
+    text-align: center;
+}
+
+#background {
+    height: 725px;
+}
+
+body {
+    background-color: #fcfbfb;
+}
+
+header {
+    background-color:rgba(93, 193, 185);
+}
+
+nav a:hover {
+    background-color: black;
+    color: #d9c2a3;
+}
+
+.logo {
+    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7)); 
+}
+
+footer p {
+    font-size: 1.2em;
+    color: #fcfbfb;
+}
+
+footer p a:hover {
+    text-decoration: underline;
+}
+
+footer {
+    background-color: #033f63;
+}
+
+footer p a {
+    color:aqua
+}
+
+#hero-img {
+    width: 1600px;
+}
+
+.msg {
+    background-color: gray;
+    color: #fcfbfb;
+}
+
+#background {
+    background-color: #fedc97;
+}
+
+.join {
+    color: aqua;
+}
+
+#mountains {
+    text-align: left;
+}
