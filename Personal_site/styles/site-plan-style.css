@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Lora&family=Mochiy+Pop+One&family=Oregano&display=swap');
+
+h1,h2,h3 {
+    font-family: "Oregano";
+}
+
+main h2, h3 {
+    color: #1B4F72;
+}
+
+body {
+    max-width: 960px;
+    margin: 0 auto;
+    padding: 4em;
+    font-size: 18px;
+    text-align: center;
+  }
+
+img {
+    display: block;
+    margin: 50px 0;
+    max-width: 400px;
+}
+
+.wireframe {
+    display: flex;
+    justify-content: center;
+}
+
+header {
+    background-color: #37474F;
+    color: white;
+    text-align: center;
+    padding: 1em;
+}
+
+hr {
+    height: 4px;
+    background: mediumblue;
+}
+
+nav {
+    background-color: #48C9B0;
+    line-height: 3em;
+    text-align: center;
+    font-size: 1.2em;
+  }
+
+  nav  {
+    list-style-type: none;
+    display: flex;
+  }
+
+  nav a {
+    padding:1em;
+    min-width: 120px;
+    text-decoration: none;
+    padding: 10px;
+  }
+
+  nav a:link, nav a:visited {
+    color: black;
+  }
+
+  nav a:hover {
+    color: black;
+    background-color: #F7DC6F;
+  }
