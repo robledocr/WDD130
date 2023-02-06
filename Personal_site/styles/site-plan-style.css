@@ -4,6 +4,18 @@ h1,h2,h3 {
     font-family: "Oregano";
 }
 
+p {
+  font-family: "Lora";
+}
+
+header {
+  background-color: #37474F;
+  color: white;
+  text-align: center;
+  padding: 1em;
+}
+
+
 main h2, h3 {
     color: #1B4F72;
 }
@@ -25,13 +37,6 @@ img {
 .wireframe {
     display: flex;
     justify-content: center;
-}
-
-header {
-    background-color: #37474F;
-    color: white;
-    text-align: center;
-    padding: 1em;
 }
 
 hr {
