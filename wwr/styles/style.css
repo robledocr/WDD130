@@ -1,3 +1,14 @@
+@import url('https://fonts.googleapis.com/css2?family=Cuprum&family=Lobster&display=swap');
+
+
+h1, h2, h3, h4 {
+    font-family: Lobster;
+}
+
+p {
+    font-family: Cuprum, Helvetica, sans-serif;
+}
+
 #content {
     background-image: url(/wwr/images/olas.png) ;
     background-size: 5%;
@@ -9,6 +20,7 @@ nav a {
     text-align: center;
     color: #fcfbfb;
     text-decoration: none;
+    padding: 35px;
 }
 
 #hero-msg h1 {
@@ -27,6 +39,10 @@ main {
     text-align: center;
 }
 
+main section img {
+    box-sizing: border-box;
+}
+
 section {
     text-align: center;
 }
@@ -37,6 +53,10 @@ section {
 
 body {
     background-color: #fcfbfb;
+    font-size: 22px;
+    font-family: Cuprum, Helvetica, sans-serif;
+    margin: 0;
+    padding: 0;
 }
 
 header {
@@ -49,7 +69,9 @@ nav a:hover {
 }
 
 .logo {
-    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7)); 
+    filter: drop-shadow(0 2px 5px rgba(0, 0, 0, 0.7));
+    width: 80px;
+    height: auto;
 }
 
 footer p {
@@ -63,10 +85,17 @@ footer p a:hover {
 
 footer {
     background-color: #033f63;
+    padding: 25px 50px;
+    margin-top: 200px;
 }
 
 footer p a {
-    color:aqua
+    color:aqua;
+    text-decoration: none;
+}
+
+footer, .social img {
+    padding-top: 15px;
 }
 
 #hero-img {
@@ -76,16 +105,57 @@ footer p a {
 .msg {
     background-color: gray;
     color: #fcfbfb;
+    line-height: 1.5em;
+    padding: 35px;
+    margin-top: 200px;
+}
+
+.msg p {
+    padding-bottom: 15px;
 }
 
 #background {
     background-color: #fedc97;
+    margin-top: 150px;
 }
 
-.join {
+.join, .Book {
     color: aqua;
+    text-decoration: none;
+    font-size: 18px;
+    padding: 15px 30px;
+    margin-top: 50px;
+    border-radius: 5px solid;
+    border: solid #368b96;
+    background: #368b96;
 }
 
 #mountains {
     text-align: left;
+    margin-top: 50px;
+}
+
+.home-title {
+    font-size: 2em;
+    margin-top: 10px;
+}
+
+h2 {
+    margin: 0;
+}
+
+#logo_link {
+    padding-top: 5px;
+}
+
+.icon {
+    padding-top: 10px;
+}
+
+.rivers-card, .camping-card, rapids-card {
+    margin: 200px 0;
+}
+
+.card-img {
+    border: 10px solid #368b96;
 }
