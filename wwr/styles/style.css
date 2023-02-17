@@ -33,7 +33,7 @@
     #background {
         display: none;
     }
-    .mountains, .msg {
+    #mountains, .msg {
         width: 80%;
         display: block;
         margin: 0 auto;
