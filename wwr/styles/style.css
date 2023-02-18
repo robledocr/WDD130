@@ -20,7 +20,7 @@ nav a {
     padding: 35px;
 }
 
-#hero-msg h1 {
+.home-title {
     text-align: center;
     color: white;
 }
