@@ -136,6 +136,7 @@ footer, .social img {
 }
 
 .mountains {
+    margin-top: 150px;
     grid-column: 2/7;
     grid-row: 5/8;
     box-shadow: 5px 5px 10px #6f7364;
