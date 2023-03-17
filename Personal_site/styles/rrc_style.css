@@ -31,7 +31,7 @@ header {
 
 .sidenav {
     height: 100%;
-    width: 200px;
+    width: 15%;
     position: fixed;
     z-index: 1;
     left: 9px;
@@ -120,7 +120,7 @@ nav a:hover {
 }
 
 main {
-    margin-left: 200px;
+    margin-left: 15%;
     padding: 10px;
     color: #100D27;
     background-color: white;
