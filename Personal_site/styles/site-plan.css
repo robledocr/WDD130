@@ -1,13 +1,13 @@
 /* if you are using any Google fonts change the font names below to your fonts. 
 Any spaces in your font name should be replaced with a +. 
 Fonts are separated by a | */
-@import url('https://fonts.googleapis.com/css2?family=Lora&family=Mochiy+Pop+One&family=Oregano&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cormorant&family=Lora&family=Montserrat&family=Oregano&display=swap');
 
 :root {
   /* change the values below to your colors from your palette */
   --primary-color: #2D4B73   ;
   --secondary-color: #99B4BF ;
-  --accent1-color: #BF8D30;
+  --accent1-color: #bf8d30d7;
   --accent2-color: #BFAE99;
 
   /* change the values below to your chosen font(s) */
