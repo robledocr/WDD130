@@ -110,7 +110,7 @@ footer, .social img {
     margin-top: 200px;
     grid-column: 6/10;
     grid-row: 6/7;
-    box-shadow: 5px 5px 10px #6f7364
+    box-shadow: 5px 5px 10px #6f7364;
 }
 
 .msg p {
