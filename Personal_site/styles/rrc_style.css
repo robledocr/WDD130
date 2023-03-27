@@ -304,14 +304,9 @@ hr {
 .skills {
     column-count: 2;
     column-gap: 3em;
-    column-rule: 1px solid #2D4B73;
+    column-rule: 2px solid #2D4B73;
     line-height: 3em;
-    padding-top: 20px;
     padding: 50px 10px;
-}
-
-.right {
-    padding: 4px;
 }
 
 footer {
